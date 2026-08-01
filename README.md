@@ -19,7 +19,7 @@
 
 # 📸 Preview
 
-> Replace this image with your latest screenshot.
+
 
 <p align="center">
 <img src="home.png" width="100%">
