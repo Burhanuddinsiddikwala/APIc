@@ -1,18 +1,20 @@
-# APIc 🚀
+<h1 align="center">
+  APIc 🚀
+</h1>
 
 <p align="center">
-  <b>A lightweight, modern API client for testing and debugging REST APIs.</b>
-  <br><br>
-  Built with <b>React</b>, <b>Flask</b>, and <b>SQLite</b>.
+  <strong>A lightweight, modern API client for testing and debugging REST APIs.</strong>
 </p>
 
 <p align="center">
+Built with React, Flask, and SQLite.
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 ---
