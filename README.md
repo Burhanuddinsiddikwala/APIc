@@ -26,6 +26,11 @@
 </p>
 
 ---
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://apic-chi.vercel.app
+
+Open the application in your browser and start testing REST APIs instantly—no installation required.
 
 # ✨ Features
 
