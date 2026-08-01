@@ -22,7 +22,7 @@
 > Replace this image with your latest screenshot.
 
 <p align="center">
-<img src="screenshots/home.png" width="100%">
+<img src="home.png" width="100%">
 </p>
 
 ---
