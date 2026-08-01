@@ -1,65 +1,148 @@
+# APIc 🚀
 
+<p align="center">
+  <b>A lightweight, modern API client for testing and debugging REST APIs.</b>
+  <br><br>
+  Built with <b>React</b>, <b>Flask</b>, and <b>SQLite</b>.
+</p>
 
-# APIc — API Client
+<p align="center">
 
-A lightweight, beautiful API testing tool built with React and Flask. Test your APIs directly from the browser — no downloads, no bloat.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## Features
+</p>
 
-- **Send requests** — GET, POST, PUT, PATCH, DELETE
+---
 
-- **Custom headers** — add/remove key-value pairs
+# 📸 Preview
 
-- **Request body** — JSON editor with format button
+> Replace this image with your latest screenshot.
 
-- **Response viewer** — syntax highlighted JSON with line numbers
+<p align="center">
+<img src="screenshots/home.png" width="100%">
+</p>
 
-- **History** — every request saved automatically with search, replay and delete
+---
 
-- **Dark/Light mode** — smooth theme toggle
+# ✨ Features
 
-## Tech Stack
+- 🚀 Send HTTP requests (GET, POST, PUT, PATCH, DELETE)
+- 📝 JSON request body support
+- 🏷 Custom request headers
+- 📜 Request history
+- ⚡ Fast response rendering
+- 🎨 Modern responsive UI
+- 🌙 Dark mode interface
+- 💾 SQLite-backed history storage
 
-**Frontend:** React + Vite + Tailwind CSS + Axios  
+---
 
-**Backend:** Flask + SQLite + Flask-CORS
+# 🛠 Tech Stack
 
-## Live Demo
+### Frontend
 
-https://apic-chi.vercel.app
+- React
+- Vite
+- CSS
 
-## Local Development
+### Backend
 
-**Backend**
+- Flask
+- Flask-CORS
 
-cd server
+### Database
 
-python3 -m venv venv
+- SQLite
 
-source venv/bin/activate
+---
 
-pip install flask flask-cors requests
+# 🚀 Getting Started
 
-python3 app.py
+## Clone
 
-**Frontend**
+```bash
+git clone https://github.com/Burhanuddinsiddikwala/APIc.git
+```
 
-cd client
+## Frontend
 
+```bash
+cd frontend
 npm install
-
 npm run dev
+```
 
-Create client/.env:
+## Backend
 
-VITE_API_URL=http://127.0.0.1:5000
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
 
-## Deployment
+---
 
-- Frontend → Vercel
+# 📖 Usage
 
-- Backend → Render
+1. Select an HTTP method.
+2. Enter an API endpoint.
+3. Add optional headers.
+4. Add a JSON request body (for POST/PUT/PATCH).
+5. Click **Send**.
+6. View the formatted response and request history.
 
-## License
+---
 
-MIT
+# 📂 Project Structure
+
+```
+APIc
+│
+├── frontend/
+│
+├── backend/
+│
+├── screenshots/
+│
+├── docs/
+│
+└── README.md
+```
+
+---
+
+# 🎯 Roadmap
+
+- [ ] Authentication support
+- [ ] Environment variables
+- [ ] Collections
+- [ ] Import/Export requests
+- [ ] GraphQL support
+- [ ] WebSocket testing
+- [ ] Response filtering
+- [ ] Code generation (cURL, Python, JavaScript)
+
+---
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork the repository and submit a Pull Request.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+It helps the project reach more developers.
